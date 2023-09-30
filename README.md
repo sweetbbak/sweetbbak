@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun projects and challenging projects
 - 📫 How to reach me @ sweetbabyalaska #0395 on Discord, or drop a comment here on GitHub.
 
-[![sweet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetbbak)](https://github.com/anuraghazra/github-readme-stats)
+[![sweet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetbbak&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sweetbbak/sweetbbak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
