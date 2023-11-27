@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sweetbbak
 - 👀 I’m interested in Go, bash, web scraping, automation, novels, audiobooks and Linux.
-- 🌱 I’m currently learning Python, Go and C/C++.
-- 💞️ I’m looking to collaborate on fun projects and challenging projects
+- 🌱 I’m currently learning Go, Bash and C.
+- 💞️ I’m looking to collaborate on fun and challenging projects
 - 📫 How to reach me @ sweetbabyalaska #0395 on Discord, or drop a comment here on GitHub.
+- Unix is awesome. Containers, chroot, coreutils are all fascinating.
 
 [![sweet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetbbak&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
